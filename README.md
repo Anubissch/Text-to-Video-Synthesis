@@ -47,6 +47,7 @@ The Text-to-Video Synthesis application provides a interface for generating vide
 - If the video doesnt appear,make sure you have all the packages needed.
 - If the video doesnt play,make sure you have the compatible Nvidia CUDA with Pytorch.
 - Dont choose the processor as CPU... It has to be Processed GPU to Generate the video given by text.
+[![asfasd.png](https://i.postimg.cc/CKMv5QrT/asfasd.png)](https://postimg.cc/nX5Kw0t0)
 
 
 
