@@ -19,7 +19,7 @@ The Text-to-Video Synthesis application provides a interface for generating vide
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/text-to-video-synthesis.git
+   git clone https://github.com/HeroTheGreat/text-to-video-synthesis.git
    
 2. Get the needed python Packages:
 
